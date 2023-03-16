@@ -1,6 +1,6 @@
 # Floagg/WaterAPI, Guide d'installation
 
-Pour utilisé l'api sur votre site internet, il vous faudras généré une "clé d'api" [Généré ma clé](https://api.floagg.org/new_key). Une fois la clé généré vous pourrez accéder au information de votre site, grace cette adress (ci-dessous).
+Pour utilisé l'api sur votre site internet, il vous faudras généré une "clé d'api" [Généré ma clé](https://floagg.org/my-account/new_key). Une fois la clé généré vous pourrez accéder au information de votre site, grace cette adress (ci-dessous).
 
 ```https://api.floagg.org/[KEY_API]/auth_website```
 
